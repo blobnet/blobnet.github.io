@@ -1,6 +1,6 @@
 <h3 align="center"> <I> ESSEE<br>la cryptomonnaie <br> éthique sûre solidaire écologique équitable
 </h3>
-    <h3 align="center"> <I> ESSEE <br> la cryptomonnaie <br> éthique sûre solidaire écologique équitable </h3>
+    
 <h4 align="center"> <I> Ses fondements techniques <br>le calcul des séquents le blobnet la blobchain <I> </h4>
 
 
